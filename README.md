@@ -1,2 +1,2 @@
-# audit_studies
-Code snippets to help conduct audit studies
+# emailaudits
+Code snippets and other materials to help conduct email audit studies.
