@@ -1,5 +1,11 @@
-### Automtically code whether participants in an email audit experiment responded. ###
-######################################################################################
+###################
+### Description ###
+###################
+
+### This is an example of how R could be used to code replies from an email audit study. 
+### A slightly modified version of this code was used to code emails for the study 
+### reported in Gell-Redman, Visalvanich, Crabtree, and Fariss (2018). If you use the 
+### code please cite one (or both!) articles. Thanks!
 
 ### Clear space
 rm(list=ls())
